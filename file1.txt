@@ -4,5 +4,6 @@ Another 1 This is a new feature from command, BTW
 
 1
 2
+File 4 has been added from command
 Change from Sally
 New feature from Intellij
