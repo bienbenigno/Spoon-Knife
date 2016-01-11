@@ -3,6 +3,6 @@ File 1
 Another 1 This is a new feature from command, BTW
 
 1
-
+2
 Change from Sally
 New feature from Intellij
