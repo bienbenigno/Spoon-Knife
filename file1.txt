@@ -1,7 +1,6 @@
 File 1
 
-Another 1 This is a new feature, BTW
+Another 1 This is a new feature from command, BTW
 
 Change from Sally
-=======
 New feature from Intellij
